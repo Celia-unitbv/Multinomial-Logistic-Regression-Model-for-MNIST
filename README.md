@@ -1,0 +1,1 @@
+# Multinomial-Logistic-Regression-Model-for-MNIST
